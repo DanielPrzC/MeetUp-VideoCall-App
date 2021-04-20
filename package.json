@@ -1,0 +1,24 @@
+{
+  "name": "react-app-meetup",
+  "version": "1.0.0",
+  "description": "A simple app for video calls. Built with React JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "video",
+    "chat",
+    "call"
+  ],
+  "author": "Daniel Pérez Castejón",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "simple-peer": "^9.11.0",
+    "socket.io": "^4.0.1"
+  }
+}
